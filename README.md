@@ -197,3 +197,7 @@ Use deep learning models
 Deploy as a web application
 
 Add real-time churn prediction API
+Conclusion
+
+This project demonstrates a complete end-to-end machine learning pipeline:
+from data cleaning and EDA to feature engineering, imbalance handling, and model evaluation.
