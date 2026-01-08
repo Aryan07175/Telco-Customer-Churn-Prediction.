@@ -164,11 +164,11 @@ Neural network-based classifier
 
 📈 Results
 
-One-Hot Encoding + Log Scaling gave best results
+One-Hot Encoding + Log Scaling gave best results.
 
-SMOTE improved recall for churned customers
+SMOTE improved recall for churned customers.
 
-XGBoost and Logistic Regression performed strongly
+XGBoost and Logistic Regression performed strongly.
 
 🧰 Technologies Used
 
@@ -178,11 +178,9 @@ Pandas, NumPy
 
 Matplotlib, Seaborn
 
-Scikit-learn
-
-XGBoost
-
-Imbalanced-learn (SMOTE)
+Scikit-learn.
+XGBoost.
+Imbalanced-learn (SMOTE).
 
 🚀 Future Improvements
 Try advanced feature selection
