@@ -1,6 +1,5 @@
 # Telco-Customer-Churn-Prediction.
 
-
 Telco Customer Churn Prediction
 
 This project focuses on predicting customer churn (whether a customer will leave the company or not) using machine learning classification models.
@@ -33,9 +32,6 @@ Services used (Phone, Internet, Streaming, Security, etc.)
 Account details (Tenure, Contract, Payment method, Charges)
 
 Demographics (Gender, Partner, Dependents)
-
-
-)
 
 🛠️ Methodology
 
